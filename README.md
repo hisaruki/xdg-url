@@ -1,0 +1,1 @@
+# A wrapper for xdg-open with a .url file.
